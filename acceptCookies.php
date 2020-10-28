@@ -1,0 +1,6 @@
+<?php
+//acceptCookies.php
+
+?>
+
+#

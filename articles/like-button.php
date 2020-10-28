@@ -1,0 +1,6 @@
+<?php
+//like-button.php
+
+
+
+?>
